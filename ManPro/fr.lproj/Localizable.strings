@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  ManPro.net
+
+  Created by Lorenzo Malferrari
+  Created by Natisoft on 17/06/2019.
+  Copyright © 2019 Natisoft. All rights reserved.
+*/
+
+/* -- MenuViewController -- */
+"Home" = "Home";
+"Pannello di controllo" = "Panneau de contrôle";
+"Impostazioni" = "Réglages";
+
+/* -- HOME -- */
+//Multistringa
+"Multistringa" = "Chaîne Multiple";
+"Scegli la Stringa di Connessione" = "Choisissez la Chaîne de Connexion";
+"Annulla" = "Annuler";
+
+/* -- Pannello -- */
+//INTERNET
+"Il dispositivo è connesso a Internet" = "L'appareil est connecté à Internet";
+"Il dispositivo NON è connesso a Internet" = "L'appareil n'est PAS connecté à Internet";
+//GPS
+"Il dispositivo ha il GPS attivo" = "L'appareil a le GPS actif";
+"Il dispositivo NON ha il GPS attivo" = "L'appareil n'a pas de GPS actif";
+//Bottoni
+"Test Connessione" = "Test de connexion";
+"Test GPS" = "Test GPS";
+//Parte Grafica
+"In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione" = "Dans ce panneau, il est possible de vérifier rapidement si l'appareil est actif dans les fonctionnalités inhérentes au bon fonctionnement de l'application";
+
+
+/* -- Impostazioni -- */
+"Imposta stringa di connessione" = "Définir la chaîne de connexion";
+"Inserire stringa" = "Entrez la chaîne";
+"Versione dell'applicazione" = "Version de l'application";
+"Qualità Immagine : " = "Qualité d'image : ";
+"Username per il login" = "Nom d'utilisateur";

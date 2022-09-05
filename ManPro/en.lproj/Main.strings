@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Ir-a0-SHB"; */
+"2Ir-a0-SHB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9H8-J0-4th"; */
+"9H8-J0-4th.text" = "Label";
+
+/* Class = "UILabel"; text = "Label_VersioneTitolo"; ObjectID = "PXX-A5-EAX"; */
+"PXX-A5-EAX.text" = "Label_VersioneTitolo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q60-3k-XSH"; */
+"Q60-3k-XSH.text" = "Label";
+
+/* Class = "UIViewController"; title = "Pannello di controllo"; ObjectID = "QAG-oK-zcs"; */
+"QAG-oK-zcs.title" = "Control panel";
+
+/* Class = "UILabel"; text = "Imposta stringa di connessione"; ObjectID = "VMh-pa-Hml"; */
+"VMh-pa-Hml.text" = "Imposta stringa di connessione";
+
+/* Class = "UIButton"; normalTitle = "Test GPS"; ObjectID = "Wrx-QO-Kyr"; */
+"Wrx-QO-Kyr.normalTitle" = "Test GPS";
+
+/* Class = "UIButton"; normalTitle = "Test Connessione"; ObjectID = "XCH-WX-1ov"; */
+"XCH-WX-1ov.normalTitle" = "Test Connessione";
+
+/* Class = "UITextField"; placeholder = "Enter the string"; ObjectID = "ZAU-VC-GYk"; */
+"ZAU-VC-GYk.placeholder" = "Enter the string";
+
+/* Class = "UINavigationItem"; title = "ManPro.net"; ObjectID = "a1u-Ki-tSz"; */
+"a1u-Ki-tSz.title" = "ManPro.net";
+
+/* Class = "UILabel"; text = "Label_VersioneNumero"; ObjectID = "ez2-pJ-ur0"; */
+"ez2-pJ-ur0.text" = "Label_VersioneNumero";
+
+/* Class = "UILabel"; text = "Label_Valore"; ObjectID = "jgF-hU-Tg8"; */
+"jgF-hU-Tg8.text" = "Label_Valore";
+
+/* Class = "UIViewController"; title = "Impostazioni"; ObjectID = "khG-SL-0rk"; */
+"khG-SL-0rk.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Test NFC"; ObjectID = "lad-cf-RjI"; */
+"lad-cf-RjI.normalTitle" = "Test NFC";
+
+/* Class = "UILabel"; text = "In questo pannello è possibile verificare in modo rapido se sul dispositivo sono attive le funzionalità inerenti al corretto funzionamento dell'applicazione"; ObjectID = "neB-2W-Je8"; */
+"neB-2W-Je8.text" = "In this panel it is possible to quickly check if the device is active in the functionalities inherent to the correct operation of the application";
+
+/* Class = "UILabel"; text = "Label_QuaImg"; ObjectID = "uOY-XJ-VDM"; */
+"uOY-XJ-VDM.text" = "Label_QuaImg";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xyy-9F-9kj"; */
+"xyy-9F-9kj.text" = "Label";
